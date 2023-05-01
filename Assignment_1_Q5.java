@@ -12,5 +12,6 @@ public class Assignment_1_Q5 {
         System.out.println("THE NUMBER IS ZERO");
         else
         System.out.println("THE NUMBER IS NEGATIVE");
+        sc.close();
     }
 }

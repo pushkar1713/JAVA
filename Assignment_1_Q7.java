@@ -16,6 +16,6 @@ public class Assignment_1_Q7 {
         }
      }
      System.out.println("The Largest number is : "+ max);
-
+     sc.close();
     }
 }

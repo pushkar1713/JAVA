@@ -12,5 +12,6 @@ public class Assignment_1_Q6 {
         else{
             System.out.println("THE NUMBER IS ODD");
         }
+        sc.close();
     }
 }
